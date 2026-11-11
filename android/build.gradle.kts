@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 group = "com.example.msal_auth"
 version = "1.0-SNAPSHOT"
 
-val msalVersion = "8.3.+"
+val msalVersion = "8.6.0"
 
 buildscript {
     val kotlinVersion = "2.2.20"
